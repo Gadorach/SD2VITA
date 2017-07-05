@@ -1,0 +1,1 @@
+Although I have untented a single VIA to be able to produce the bottom soldermask layer, I assure you that there is no intended bottom layer soldermask expansion. All VIAs should be tented. The bottom should be completely covered in soldermask.
